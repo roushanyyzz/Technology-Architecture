@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T02:10:44.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="18.1.2" etag="RYbd_LRclrD3iJUJSrQ3" type="github"><diagram id="UAjmyw7OU--3WjpYX54A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-10T08:37:10.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JIOjnXMQcXfR0BW3xsnU" version="19.0.3" type="github">
+  <diagram id="UAjmyw7OU--3WjpYX54A" name="Page-1">
+    <mxGraphModel dx="834" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-hztG-w7qEGc9Fkptxs-1" target="2-hztG-w7qEGc9Fkptxs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-1" value="ETH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-hztG-w7qEGc9Fkptxs-2" target="2-hztG-w7qEGc9Fkptxs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-hztG-w7qEGc9Fkptxs-2" target="2-hztG-w7qEGc9Fkptxs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-2" value="CETH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-3" value="CUNP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="703" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-9" value="代币" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-10" value="Coin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="743" y="615" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-13" value="1:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="158" y="515" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-17" value="ERC20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="482" y="649.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-hztG-w7qEGc9Fkptxs-18" target="2-hztG-w7qEGc9Fkptxs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-hztG-w7qEGc9Fkptxs-18" target="2-hztG-w7qEGc9Fkptxs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-18" value="智能合约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-26" value="1. 接受ETH资产&lt;br&gt;2. 锁定ETH资产&lt;br&gt;3. 释放ETH资产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-27" value="1. 监听ETH&lt;br&gt;2. 调用CETH生成对应资产证明（CETH）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="273" y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-28" value="用于支付Gas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="718" y="649.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-29" value="兑换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="613" y="495" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-30" value="1. 销毁CETH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="348" y="569.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-31" value="1. 监听到销毁&lt;br&gt;2. 通知ETH释放ETH资产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="93" y="569.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2-hztG-w7qEGc9Fkptxs-32" value="部署在链上&lt;br&gt;不可修改，只能删除后重新部署" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="193" y="610" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
